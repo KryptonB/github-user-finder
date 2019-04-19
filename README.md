@@ -1,5 +1,6 @@
 # GitHub User Finder
 
+
 An AJAX web app that pulls GitHub user details and repo details when you enter a GitHub username. It uses [GitHub API](https://developer.github.com/v3/) to retrieve these details.  
   
 You can access a demo at: https://kryptonb.github.io/github-user-finder/ 
