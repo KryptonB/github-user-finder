@@ -12,7 +12,7 @@ You can access a demo at: https://kryptonb.github.io/github-user-finder/
 * Download the docs folder and open [index.html](index.html) file in a browser
 * Remove the api key in [main.js](js/main.js) and use your own key
 
-### Requirements
+## Requirements
 * GitHub API key
 * Google Chrome web browser (JavaScript enabled)
 * Internet connection with a reasonable speed
